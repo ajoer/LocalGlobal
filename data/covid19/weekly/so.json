@@ -1,0 +1,22 @@
+{
+    "2020-03-14": {
+        "links": [
+            "wuhan",
+            "shiinaha",
+            "insaan"
+        ],
+        "references": []
+    },
+    "2020-03-22": {
+        "links": [
+            "wuhan",
+            "shiinaha",
+            "insaan"
+        ],
+        "references": [
+            "who.int/docs/default-source/coronaviruse/getting-workplace-ready-for-covid-19.pdf",
+            "researchgate.net/publication/339515532_The_epidemiology_and_pathogenesis_of_coronavirus_disease_COVID-19_outbreak",
+            "garoweonline.com/so/maqaalo/coronavirus-astaamaha-cudurka-halistiisa-habka-uu-ku-faafo-iyo-sida-looga-hortaggo"
+        ]
+    }
+}

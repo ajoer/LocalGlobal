@@ -1,0 +1,16 @@
+{
+    "2020-03-24": {
+        "links": [
+            "རྒྱལ་སྤྱིའི་འཕྲོད་བསྟེན་སྒྲིག་འཛུགས།",
+            "ཡོངས་ཁྱབ་རིམས་ནད།"
+        ],
+        "references": [
+            "who.int/emergencies/diseases/novel-coronavirus-2019",
+            "who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+            "arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+            "worldometers.info/coronavirus/",
+            "ourworldindata.org/grapher/total-confirmed-cases-of-covid-19-per-million-people",
+            "ourworldindata.org/grapher/total-covid-deaths-per-million"
+        ]
+    }
+}

@@ -1,0 +1,669 @@
+{
+    "aa": [
+        "djibouti"
+    ],
+    "af": [
+        "south africa"
+    ],
+    "am": [
+        "ethiopia"
+    ],
+    "ar": [
+        "united arab emirates",
+        "bahrain",
+        "djibouti",
+        "algeria",
+        "egypt",
+        "western sahara",
+        "eritrea",
+        "iraq",
+        "jordan",
+        "comores",
+        "kuwait",
+        "lebanon",
+        "libya",
+        "morocco",
+        "mauritania",
+        "oman",
+        "palestine",
+        "state of palestine",
+        "palestinian territory",
+        "qatar",
+        "saudi arabia",
+        "sudan",
+        "somalia",
+        "syria",
+        "chad",
+        "tunisia",
+        "yemen"
+    ],
+    "ast": [
+        "spain"
+    ],
+    "ay": [
+        "bolivia"
+    ],
+    "az": [
+        "azerbaijan"
+    ],
+    "be": [
+        "belarus"
+    ],
+    "bg": [
+        "bulgaria"
+    ],
+    "bi": [
+        "vanuatu"
+    ],
+    "bn": [
+        "bangladesh"
+    ],
+    "bs": [
+        "bosnia",
+        "bosnia-herzegovina",
+        "bosnia and herzegovina",
+        "montenegro"
+    ],
+    "ca": [
+        "andorra",
+        "spain"
+    ],
+    "ch": [
+        "guam",
+        "northern mariana islands"
+    ],
+    "crs": [
+        "seychelles"
+    ],
+    "cs": [
+        "czech republic"
+    ],
+    "cy": [
+        "united kingdom"
+    ],
+    "da": [
+        "denmark",
+        "faroe islands",
+        "greenland"
+    ],
+    "de": [
+        "austria",
+        "belgium",
+        "switzerland",
+        "germany",
+        "italy",
+        "liechtenstein",
+        "luxembourg",
+        "namibia"
+    ],
+    "dv": [
+        "maldives"
+    ],
+    "dz": [
+        "bhutan"
+    ],
+    "el": [
+        "cyprus",
+        "greece"
+    ],
+    "en": [
+        "antigua and barbuda",
+        "anguilla",
+        "antarctica",
+        "american samoa",
+        "australia",
+        "barbados",
+        "bermuda",
+        "bahamas",
+        "botswana",
+        "belize",
+        "canada",
+        "cocos (keeling) islands",
+        "cocos keeling islands",
+        "cook islands",
+        "cameroon",
+        "curaçao",
+        "christmas island",
+        "dominica",
+        "eritrea",
+        "fiji",
+        "falkland islands",
+        "micronesia",
+        "micronesia (federated states of)",
+        "united kingdom",
+        "grenada",
+        "guernsey",
+        "ghana",
+        "gibraltar",
+        "the gambia",
+        "south georgia and the south sandwich islands",
+        "guam",
+        "guyana",
+        "hong kong",
+        "hong kong (sar of china)",
+        "heard island and mcdonald islands",
+        "ireland",
+        "isle of man",
+        "india",
+        "british indian ocean territory",
+        "jersey",
+        "jamaica",
+        "kenya",
+        "kiribati",
+        "saint kitts and nevis",
+        "south korea",
+        "cayman islands",
+        "saint lucia",
+        "liberia",
+        "lesotho",
+        "marshall islands",
+        "northern mariana islands",
+        "montserrat",
+        "malta",
+        "mauritius",
+        "malawi",
+        "namibia",
+        "norfolk island",
+        "nigeria",
+        "nauru",
+        "niue",
+        "new zealand",
+        "papua new guinea",
+        "philippines",
+        "pakistan",
+        "pitcairn",
+        "puerto rico",
+        "palau",
+        "rwanda",
+        "solomon islands",
+        "seychelles",
+        "sudan",
+        "singapore",
+        "saint helena",
+        "sierra leone",
+        "south sudan",
+        "saint martin",
+        "saint martin (dutch part)",
+        "swaziland",
+        "turks and caicos islands",
+        "tokelau",
+        "tonga",
+        "trinidad and tobago",
+        "tuvalu",
+        "tanzania",
+        "uganda",
+        "united states",
+        "united states minor outlying islands",
+        "united states of america",
+        "saint vincent and the grenadines",
+        "british virgin islands",
+        "united states virgin islands",
+        "vanuatu",
+        "samoa",
+        "south africa",
+        "zambia",
+        "zimbabwe"
+    ],
+    "es": [
+        "antarctica",
+        "argentina",
+        "bolivia",
+        "chile",
+        "colombia",
+        "costa rica",
+        "cuba",
+        "dominican republic",
+        "ecuador",
+        "western sahara",
+        "spain",
+        "equatorial guinea",
+        "guatemala",
+        "honduras",
+        "mexico",
+        "nicaragua",
+        "panama",
+        "peru",
+        "puerto rico",
+        "paraguay",
+        "el salvador",
+        "uruguay",
+        "venezuela"
+    ],
+    "et": [
+        "estonia"
+    ],
+    "eu": [
+        "spain"
+    ],
+    "fa": [
+        "afghanistan",
+        "iran"
+    ],
+    "fi": [
+        "finland"
+    ],
+    "fo": [
+        "faroe islands"
+    ],
+    "fr": [
+        "antarctica",
+        "belgium",
+        "burkina faso",
+        "burundi",
+        "benin",
+        "saint-barthélemy",
+        "canada",
+        "dr congo",
+        "democratic republic of the congo",
+        "congo-kinshasa",
+        "centrafrican republic",
+        "central african republic",
+        "republic of the congo",
+        "congo-brazzaville",
+        "switzerland",
+        "côte d'ivoire",
+        "cameroon",
+        "djibouti",
+        "western sahara",
+        "france",
+        "gabon",
+        "french guiana",
+        "guinea",
+        "guadeloupe",
+        "equatorial guinea",
+        "haiti",
+        "italy",
+        "comores",
+        "lebanon",
+        "luxembourg",
+        "morocco",
+        "monaco",
+        "saint martin",
+        "saint martin (french part)",
+        "madagascar",
+        "mali",
+        "martinique",
+        "mauritania",
+        "mauritius",
+        "new caledonia",
+        "niger",
+        "french polynesia",
+        "saint pierre and miquelon",
+        "reunion",
+        "rwanda",
+        "seychelles",
+        "sénégal",
+        "chad",
+        "french southern and antarctic lands",
+        "togo",
+        "tunisia",
+        "vanuatu",
+        "wallis and futuna",
+        "mayotte",
+        "zaire"
+    ],
+    "ga": [
+        "united kingdom",
+        "ireland"
+    ],
+    "gd": [
+        "united kingdom"
+    ],
+    "gl": [
+        "spain"
+    ],
+    "gn": [
+        "bolivia",
+        "paraguay"
+    ],
+    "he": [
+        "israel",
+        "palestine",
+        "state of palestine",
+        "palestinian territory"
+    ],
+    "hi": [
+        "india"
+    ],
+    "ho": [
+        "papua new guinea"
+    ],
+    "hr": [
+        "bosnia and herzegovina",
+        "croatia",
+        "montenegro"
+    ],
+    "ht": [
+        "haiti"
+    ],
+    "hu": [
+        "hungary"
+    ],
+    "hy": [
+        "armenia"
+    ],
+    "id": [
+        "indonesia"
+    ],
+    "is": [
+        "iceland"
+    ],
+    "it": [
+        "switzerland",
+        "italy",
+        "san marino",
+        "city of the vatican"
+    ],
+    "ja": [
+        "japan",
+        "palau"
+    ],
+    "ka": [
+        "georgia"
+    ],
+    "kaa": [
+        "uzbekistan"
+    ],
+    "kk": [
+        "kazakhstan"
+    ],
+    "kl": [
+        "greenland"
+    ],
+    "km": [
+        "cambodia"
+    ],
+    "ko": [
+        "north korea",
+        "south korea"
+    ],
+    "ku": [
+        "iraq"
+    ],
+    "kw": [
+        "united kingdom"
+    ],
+    "ky": [
+        "kyrgyzstan"
+    ],
+    "language": [
+        "country_name"
+    ],
+    "lb": [
+        "luxembourg"
+    ],
+    "lo": [
+        "laos"
+    ],
+    "lt": [
+        "lithuania"
+    ],
+    "lv": [
+        "latvia"
+    ],
+    "mfe": [
+        "mauritius"
+    ],
+    "mg": [
+        "madagascar"
+    ],
+    "mh": [
+        "marshall islands"
+    ],
+    "mi": [
+        "new zealand"
+    ],
+    "mk": [
+        "macedonia",
+        "macedonia (former yugoslav republic of)"
+    ],
+    "mn": [
+        "mongolia"
+    ],
+    "ms": [
+        "brunei darussalam",
+        "malaysia",
+        "singapore"
+    ],
+    "mt": [
+        "malta"
+    ],
+    "my": [
+        "myanmar"
+    ],
+    "na": [
+        "nauru"
+    ],
+    "nb": [
+        "norway"
+    ],
+    "nd": [
+        "zimbabwe"
+    ],
+    "ne": [
+        "nepal"
+    ],
+    "niu": [
+        "niue"
+    ],
+    "nl": [
+        "aruba",
+        "belgium",
+        "caribbean netherlands",
+        "curaçao",
+        "the netherlands",
+        "suriname",
+        "saint martin",
+        "saint martin (dutch part)"
+    ],
+    "nn": [
+        "norway"
+    ],
+    "no": [
+        "bouvet island",
+        "norway",
+        "svalbard and jan mayen"
+    ],
+    "ny": [
+        "malawi"
+    ],
+    "om": [
+        "ethiopia"
+    ],
+    "pap": [
+        "aruba"
+    ],
+    "pau": [
+        "palau"
+    ],
+    "pih": [
+        "norfolk island",
+        "pitcairn"
+    ],
+    "pl": [
+        "poland"
+    ],
+    "ps": [
+        "afghanistan"
+    ],
+    "pt": [
+        "angola",
+        "brazil",
+        "cabo verde",
+        "equatorial guinea",
+        "guinea bissau",
+        "macao",
+        "macao (sar of china)",
+        "mozambique",
+        "portugal",
+        "são tomé and príncipe",
+        "timor-leste"
+    ],
+    "qu": [
+        "bolivia"
+    ],
+    "rar": [
+        "cook islands"
+    ],
+    "rm": [
+        "switzerland"
+    ],
+    "ro": [
+        "moldova",
+        "romania"
+    ],
+    "ru": [
+        "belarus",
+        "kyrgyzstan",
+        "kazakhstan",
+        "moldova",
+        "russia",
+        "tajikistan"
+    ],
+    "ru[1]": [
+        "antarctica"
+    ],
+    "rw": [
+        "rwanda"
+    ],
+    "se": [
+        "finland",
+        "norway"
+    ],
+    "sf": [
+        "namibia"
+    ],
+    "sg": [
+        "central african republic",
+        "centrafrican republic"
+    ],
+    "si": [
+        "sri lanka"
+    ],
+    "sk": [
+        "slovakia"
+    ],
+    "sl": [
+        "slovenia"
+    ],
+    "sm": [
+        "american samoa",
+        "tokelau",
+        "samoa"
+    ],
+    "sn": [
+        "zimbabwe"
+    ],
+    "so": [
+        "djibouti",
+        "somalia"
+    ],
+    "sov": [
+        "palau"
+    ],
+    "sq": [
+        "albania",
+        "montenegro"
+    ],
+    "sr": [
+        "bosnia and herzegovina",
+        "montenegro",
+        "serbia"
+    ],
+    "sr-Latn": [
+        "serbia"
+    ],
+    "srp": [
+        "montenegro"
+    ],
+    "ss": [
+        "swaziland"
+    ],
+    "st": [
+        "lesotho",
+        "south africa"
+    ],
+    "sv": [
+        "aland islands",
+        "finland",
+        "sweden"
+    ],
+    "sw": [
+        "kenya",
+        "comores",
+        "tanzania",
+        "uganda"
+    ],
+    "ta": [
+        "sri lanka",
+        "singapore"
+    ],
+    "tet": [
+        "timor-leste"
+    ],
+    "tg": [
+        "tajikistan"
+    ],
+    "th": [
+        "thailand"
+    ],
+    "ti": [
+        "eritrea"
+    ],
+    "tk": [
+        "turkmenistan"
+    ],
+    "tkl": [
+        "tokelau"
+    ],
+    "tl": [
+        "philippines"
+    ],
+    "tn": [
+        "botswana",
+        "south africa"
+    ],
+    "tox": [
+        "palau"
+    ],
+    "tpi": [
+        "papua new guinea"
+    ],
+    "tr": [
+        "cyprus",
+        "turkey"
+    ],
+    "uk": [
+        "moldova",
+        "ukraine"
+    ],
+    "ur": [
+        "pakistan"
+    ],
+    "uz": [
+        "uzbekistan"
+    ],
+    "vi": [
+        "vietnam"
+    ],
+    "xh": [
+        "south africa"
+    ],
+    "zgh": [
+        "morocco"
+    ],
+    "zh-hans": [
+        "china",
+        "singapore"
+    ],
+    "zh-hant": [
+        "hong kong",
+        "hong kong (sar of china)",
+        "macao",
+        "macao (sar of china)",
+        "taiwan"
+    ],
+    "zu": [
+        "south africa"
+    ]
+}

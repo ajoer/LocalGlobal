@@ -1,0 +1,45 @@
+{
+    "2020-02-04": {
+        "links": [
+            "sars-cov-2",
+            "короновирус",
+            "covid-19 короновирусла инфекци",
+            "пандеми"
+        ],
+        "references": []
+    },
+    "2020-03-20": {
+        "links": [
+            "sars-cov-2",
+            "короновирус",
+            "covid-19 короновирусла инфекци",
+            "пандеми"
+        ],
+        "references": [
+            "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+            "chuvash.org/chat",
+            "hypar.ru/cv/tegi/koronavirus",
+            "hypar.ru/cv/medicina-maskisene-chavash-enre-tusa-kalarasshan",
+            "hypar.ru/cv/rubriki/zdorove",
+            "hypar.ru/cv/tegi/vereny",
+            "echo.msk.ru/blog/potekhinalex/2608326-echo/"
+        ]
+    },
+    "2020-03-22": {
+        "links": [
+            "sars-cov-2",
+            "короновирус",
+            "covid-19 короновирусла инфекци",
+            "пандеми"
+        ],
+        "references": [
+            "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+            "chuvash.org/chat",
+            "hypar.ru/cv/tegi/koronavirus",
+            "hypar.ru/cv/medicina-maskisene-chavash-enre-tusa-kalarasshan",
+            "hypar.ru/cv/rubriki/zdorove",
+            "hypar.ru/cv/tegi/vereny",
+            "echo.msk.ru/blog/potekhinalex/2608326-echo/"
+        ]
+    }
+}
