@@ -1,0 +1,3846 @@
+{
+    "2020-01-24": {
+        "links": {
+            "china": [
+                "ганконг",
+                "пекін",
+                "тыбет",
+                "ухань",
+                "хуанган",
+                "эчжоу"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "лос-анджэлес",
+                "сан-францыска"
+            ]
+        },
+        "references": {
+            "china": [
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "hong kong": [
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "united states": [
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "promedmail.org/promed-post/?id=6866757",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/"
+            ]
+        }
+    },
+    "2020-01-31": {
+        "links": {
+            "belarus": [
+                "беларусь"
+            ],
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "m.bel.sputnik.by/society/20200129/1043813721/Lukashenka-rasparadzsya-adpravts-samalt-z-lekam--Ktay.html",
+                "m.sputnik.by/society/20200129/1043820666/Samolet-s-belorusskoy-gumanitarnoy-pomoschyu-vyletel-v-Kitay.html?mobile_return=no"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4236052",
+                "lenta.ru/news/2020/01/23/virus/",
+                "nauka.vesti.ru/article/1260647",
+                "vesti.ru/doc.html?id=3232708"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "cna.com.tw/news/firstnews/202001230201.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-02-09": {
+        "links": {
+            "belarus": [
+                "беларусь"
+            ],
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "m.bel.sputnik.by/society/20200129/1043813721/Lukashenka-rasparadzsya-adpravts-samalt-z-lekam--Ktay.html",
+                "m.sputnik.by/society/20200129/1043820666/Samolet-s-belorusskoy-gumanitarnoy-pomoschyu-vyletel-v-Kitay.html?mobile_return=no"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4236052",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7675145",
+                "vesti.ru/doc.html?id=3232708"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "cna.com.tw/news/firstnews/202001230201.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-02-17": {
+        "links": {
+            "belarus": [
+                "беларусь"
+            ],
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "germany": [
+                "volkswagen"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "m.bel.sputnik.by/society/20200129/1043813721/Lukashenka-rasparadzsya-adpravts-samalt-z-lekam--Ktay.html",
+                "m.sputnik.by/society/20200129/1043820666/Samolet-s-belorusskoy-gumanitarnoy-pomoschyu-vyletel-v-Kitay.html?mobile_return=no"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4236052",
+                "kommersant.ru/doc/4242785",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "ria.ru/20200201/1564145099.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7675145",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "vesti.ru/doc.html?id=3232708"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "cna.com.tw/news/firstnews/202001230201.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-02-21": {
+        "links": {
+            "belarus": [
+                "беларусь"
+            ],
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "germany": [
+                "volkswagen"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "m.bel.sputnik.by/society/20200129/1043813721/Lukashenka-rasparadzsya-adpravts-samalt-z-lekam--Ktay.html",
+                "m.sputnik.by/society/20200129/1043820666/Samolet-s-belorusskoy-gumanitarnoy-pomoschyu-vyletel-v-Kitay.html?mobile_return=no"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4236052",
+                "kommersant.ru/doc/4242785",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "ria.ru/20200201/1564145099.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7675145",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "vesti.ru/doc.html?id=3232708"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "cna.com.tw/news/firstnews/202001230201.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-02-28": {
+        "links": {
+            "belarus": [
+                "беларусь"
+            ],
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "germany": [
+                "volkswagen"
+            ],
+            "italy": [
+                "венецыя"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "m.bel.sputnik.by/society/20200129/1043813721/Lukashenka-rasparadzsya-adpravts-samalt-z-lekam--Ktay.html",
+                "m.sputnik.by/society/20200129/1043820666/Samolet-s-belorusskoy-gumanitarnoy-pomoschyu-vyletel-v-Kitay.html?mobile_return=no"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4236052",
+                "kommersant.ru/doc/4242785",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7675145",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "vesti.ru/doc.html?id=3232708",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "cna.com.tw/news/firstnews/202001230201.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "worldometers.info/coronavirus/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-03-07": {
+        "links": {
+            "belarus": [
+                "беларусь"
+            ],
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "germany": [
+                "volkswagen"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "m.bel.sputnik.by/society/20200129/1043813721/Lukashenka-rasparadzsya-adpravts-samalt-z-lekam--Ktay.html",
+                "m.sputnik.by/society/20200129/1043820666/Samolet-s-belorusskoy-gumanitarnoy-pomoschyu-vyletel-v-Kitay.html?mobile_return=no"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4236052",
+                "kommersant.ru/doc/4242785",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7675145",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "vesti.ru/doc.html?id=3232708",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "cna.com.tw/news/firstnews/202001230201.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "worldometers.info/coronavirus/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-03-16": {
+        "links": {
+            "belarus": [
+                "беларусь"
+            ],
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "germany": [
+                "volkswagen"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "m.bel.sputnik.by/society/20200129/1043813721/Lukashenka-rasparadzsya-adpravts-samalt-z-lekam--Ktay.html",
+                "m.sputnik.by/society/20200129/1043820666/Samolet-s-belorusskoy-gumanitarnoy-pomoschyu-vyletel-v-Kitay.html?mobile_return=no",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4236052",
+                "kommersant.ru/doc/4242785",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7675145",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "vesti.ru/doc.html?id=3232708",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "cna.com.tw/news/firstnews/202001230201.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "svaboda.org/a/30482169.html",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "worldometers.info/coronavirus/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-03-20": {
+        "links": {
+            "china": [
+                "ганконг",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "germany": [
+                "volkswagen"
+            ],
+            "iran": [
+                "іран"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя",
+                "пусан"
+            ],
+            "spain": [
+                "іспанія"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "ukraine": [
+                "украіна"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "nn.by/?c=ar&i=248171",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4242785",
+                "kommersant.ru/doc/4267312",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "ria.ru/20200319/1568814432.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "ttsport.ru/srocno-cempionat-mira-otlozen-iz-za-koronavirusa/pub.5662/",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "kmu.gov.ua/news/mi-pracyuyemo-na-viperedzhennya-premyer-ministr",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html",
+                "rbc.ua/rus/news/ukraine-vveli-karantin-koronavirusa-1583919251.html/amp"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ittf.com/2020/02/25/2020-world-table-tennis-championships-postponed-due-covid-19/",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "svaboda.org/a/30482169.html",
+                "svaboda.org/a/30499460.html",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "worldometers.info/coronavirus/",
+                "worldometers.info/coronavirus/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-03-30": {
+        "links": {
+            "china": [
+                "ганконг",
+                "кітай",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "france": [
+                "францыя"
+            ],
+            "germany": [
+                "volkswagen"
+            ],
+            "iran": [
+                "іран"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя",
+                "пусан"
+            ],
+            "spain": [
+                "іспанія"
+            ],
+            "switzerland": [
+                "швейцарыя"
+            ],
+            "taiwan": [
+                "тайвань"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "ukraine": [
+                "украіна"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "australia": [
+                "9news.com.au/national/coronavirus-sydney-scare-as-china-heads-into-shutdown/71c2e099-d49b-42b9-b4b1-02bc4a0457a6"
+            ],
+            "belarus": [
+                "nn.by/?c=ar&i=248171",
+                "nn.by/?c=ar&i=248609",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "hk.on.cc/hk/bkn/cnt/news/20200123/mobile/bkn-20200123095348297-0123_00822_001.html",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "finland": [
+                "yle.fi/uutiset/osasto/news/finlands_first_coronavirus_case_confirmed_in_lapland/11182855"
+            ],
+            "germany": [
+                "spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99"
+            ],
+            "hong kong": [
+                "chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "india": [
+                "aninews.in/news/world/asia/first-case-of-coronavirus-in-nepal-after-student-who-returned-from-wuhan-tests-postive20200124184400/",
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "italy": [
+                "rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html"
+            ],
+            "japan": [
+                ".nhk.or.jp/nhkworld/en/news/20200126_31/",
+                "japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/"
+            ],
+            "kazakhstan": [
+                "vlast.kz/novosti/38029-v-livii-priostanovili-boevye-dejstvia-iz-za-koronavirusa.html?utm_source=yxnews&utm_medium=mobile&utm_referrer=https%3A%2F%2Fyandex.by%2Fnews"
+            ],
+            "macao": [
+                "tdm.com.mo/c_news/radio_news.php?id=452507"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4242785",
+                "kommersant.ru/doc/4267312",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/01/31/reg-urfo/gubernator-tiumeni-podtverdil-zarazhenie-studentki-koronavirusom.html",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200130/1564062440.html",
+                "ria.ru/20200131/1564122734.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "ria.ru/20200319/1568814432.html",
+                "tass.ru/obschestvo/7662703",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "ttsport.ru/srocno-cempionat-mira-otlozen-iz-za-koronavirusa/pub.5662/",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "south korea": [
+                "en.yna.co.kr/view/AEN20200126000500320"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/Bulletin/Detail/ozDpnZZxwa-kBKTXbdS0Kw?typeid=9",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "ukraine": [
+                "facebook.com/OfficialDOHgov/videos/225636625111007/?__tn__=-R",
+                "kmu.gov.ua/news/mi-pracyuyemo-na-viperedzhennya-premyer-ministr",
+                "rbc.ua/rus/news/kanade-prekratili-lechit-dvuh-lyudey-kotorye-1580512998.html",
+                "rbc.ua/rus/news/ukraine-vveli-karantin-koronavirusa-1583919251.html/amp"
+            ],
+            "united kingdom": [
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf",
+                "independent.co.uk/news/world/europe/coronavirus-france-china-wuhan-virus-symptoms-outbreak-latest-a9301106.html"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "caixin.com/2020-01-23/101507670.html",
+                "channelnewsasia.com/news/asia/wuhan-virus-cambodia-confirms-first-case-china-health-minister-12358724",
+                "channelnewsasia.com/news/singapore/4th-confirmed-case-of-wuhan-pneumonia-virus-in-singapore-moh-12339912",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "cnbc.com/2020/01/24/cdc-confirms-second-us-case-of-coronavirus-chicago-resident-diagnosed.html",
+                "cnbc.com/2020/01/26/third-us-case-of-coronavirus-confirmed-in-california-health-officials-say.html",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "e.vnexpress.net/news/news/vietnam-confirms-first-acute-pneumonia-cases-from-wuhan-virus-4046310.html",
+                "edition.cnn.com/asia/live-news/coronavirus-outbreak-hnk-intl-01-24-20/h_7df038a58420da0cb7769f22803cbcc8",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ittf.com/2020/02/25/2020-world-table-tennis-championships-postponed-due-covid-19/",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "newsobservatory.com/breaking-spains-health-ministry-confirms-first-case-of-coronavirus",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "pptvhd36.com/news/ประเด็นร้อน/118387",
+                "promedmail.org/promed-post/?id=6866757",
+                "reuters.com/article/us-china-health-malaysia-idUSKBN1ZO065",
+                "reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF",
+                "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "svaboda.org/a/30482169.html",
+                "svaboda.org/a/30499460.html",
+                "svaboda.org/a/30505011.html",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "theguardian.com/science/2020/jan/24/coronavirus-chinese-hospitals-in-chaos-as-lockdown-spreads-to-affect-25m-people",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---23-march-2020",
+                "worldometers.info/coronavirus/",
+                "worldometers.info/coronavirus/",
+                "xinhuanet.com/english/2020-01/25/c_138732435.htm"
+            ]
+        }
+    },
+    "2020-04-04": {
+        "links": {
+            "china": [
+                "ганконг",
+                "кітай",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "france": [
+                "францыя"
+            ],
+            "germany": [
+                "volkswagen",
+                "германія"
+            ],
+            "iran": [
+                "іран"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя",
+                "пусан"
+            ],
+            "spain": [
+                "іспанія"
+            ],
+            "switzerland": [
+                "швейцарыя"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "ukraine": [
+                "украіна"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "argentina": [
+                "argentina.gob.ar/coronavirus/informe-diario"
+            ],
+            "armenia": [
+                "ncdc.am/coronavirus/confirmed-cases-by-days/"
+            ],
+            "australia": [
+                "news.com.au/topics/coronavirus"
+            ],
+            "austria": [
+                "sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html"
+            ],
+            "azerbaijan": [
+                "koronavirusinfo.az/azərbaycanda-cari-vəziyyət/"
+            ],
+            "bahrain": [
+                "moh.gov.bh/COVID19"
+            ],
+            "belarus": [
+                "nn.by/?c=ar&i=248171",
+                "nn.by/?c=ar&i=248609",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "belgium": [
+                "info-coronavirus.be/en/news/"
+            ],
+            "bolivia": [
+                "boliviasegura.gob.bo/categoria/comunicados-oficiales/"
+            ],
+            "brazil": [
+                ".folha.uol.com.br/equilibrioesaude/2020/02/brasil-confirma-primeiro-caso-do-novo-coronavirus.shtml"
+            ],
+            "bulgaria": [
+                "mh.government.bg/bg/novini/aktualno/"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "chile": [
+                "minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "croatia": [
+                "civilna-zastita.gov.hr/vijesti/priopcenje-za-medije-stozera-civilne-zastite-republike-hrvatske-od-17-ozujka-2020-u-19-sati/2264"
+            ],
+            "czech republic": [
+                "onemocneni-aktualne.mzcr.cz/covid-19"
+            ],
+            "denmark": [
+                "sst.dk/da/corona-eng/COVID-19-update_-statistics-and-charts"
+            ],
+            "dominican republic": [
+                "elnacional.com.do/aumentan-a-28-los-fallecidos-por-coronavirus-en-republica-dominicana/"
+            ],
+            "estonia": [
+                "terviseamet.ee/ru/COVID-19"
+            ],
+            "finland": [
+                "ins.gov.co/Noticias/Paginas/Coronavirus.aspx",
+                "thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates"
+            ],
+            "france": [
+                "santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+            ],
+            "georgia": [
+                "stopcov.ge/en/"
+            ],
+            "germany": [
+                "interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
+                "rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html"
+            ],
+            "greece": [
+                "moh.gov.gr/articles/ministry/grafeio-typoy"
+            ],
+            "hong kong": [
+                "coronavirus.gov.hk/eng/index.html",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "hungary": [
+                "koronavirus.gov.hu"
+            ],
+            "iceland": [
+                "covid.is/tolulegar-upplysingar"
+            ],
+            "india": [
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "indonesia": [
+                "covid19.kemkes.go.id/"
+            ],
+            "iran": [
+                "en.irna.ir/news/83730677/Official-11-679-Iranians-survived-coronavirus"
+            ],
+            "ireland": [
+                "gov.ie/en/news/7e0924-latest-updates-on-covid-19-coronavirus/"
+            ],
+            "italy": [
+                "salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto"
+            ],
+            "japan": [
+                "mhlw.go.jp/stf/newpage_10465.html",
+                "mhlw.go.jp/stf/newpage_10540.html"
+            ],
+            "jordan": [
+                "petra.gov.jo/Include/ListNews.jsp?lang=en&name=en_news"
+            ],
+            "kazakhstan": [
+                "coronavirus2020.kz/ru",
+                "vlast.kz/novosti/38029-v-livii-priostanovili-boevye-dejstvia-iz-za-koronavirusa.html?utm_source=yxnews&utm_medium=mobile&utm_referrer=https%3A%2F%2Fyandex.by%2Fnews"
+            ],
+            "latvia": [
+                "arkartassituacija.gov.lv/"
+            ],
+            "lebanon": [
+                "corona.ministryinfo.gov.lb"
+            ],
+            "lithuania": [
+                "sam.lrv.lt/koronavirusas"
+            ],
+            "luxembourg": [
+                "gouvernement.lu/en/dossiers.gouv_msan%2Ben%2Bdossiers%2B2020%2Bcorona-virus.html"
+            ],
+            "malaysia": [
+                "moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+                "thestar.com.my/news/nation/2020/03/28/covid-19-159-new-cases-reported-death-toll-at-27"
+            ],
+            "mexico": [
+                "riodoce.mx/2020/03/27/se-registran-132-casos-nuevos-de-covid-19-en-mexico-suman-717/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjQ0NCIsInRvZ2dsZSI6ZmFsc2V9"
+            ],
+            "moldova": [
+                "ansp.md/index.php/category/actualizarea-situatiei-privind-coronavirus/"
+            ],
+            "morocco": [
+                "covidmaroc.ma/pages/Accueil.aspx"
+            ],
+            "new zealand": [
+                "health.govt.nz/news-media/media-releases/covid-19-three-new-cases-linked-overseas"
+            ],
+            "norway": [
+                "vg.no/spesial/2020/corona-viruset/"
+            ],
+            "pakistan": [
+                "covid.gov.pk/"
+            ],
+            "panama": [
+                "minsa.gob.pa/coronavirus-covid19"
+            ],
+            "peru": [
+                "gob.pe/8662-ministerio-de-salud-coronavirus-en-el-peru/"
+            ],
+            "philippines": [
+                "doh.gov.ph/2019-nCoV"
+            ],
+            "portugal": [
+                "covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/"
+            ],
+            "qatar": [
+                "moph.gov.qa/english/Pages/Coronavirus2019.aspx"
+            ],
+            "romania": [
+                "mai.gov.ro/informare-covid-19-grupul-de-comunicare-strategica-16-martie-ora-18-00/"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4242785",
+                "kommersant.ru/doc/4267312",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "ria.ru/20200319/1568814432.html",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "ttsport.ru/srocno-cempionat-mira-otlozen-iz-za-koronavirusa/pub.5662/",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "serbia": [
+                "covid19.rs/homepage-english/"
+            ],
+            "singapore": [
+                "moh.gov.sg/covid-19"
+            ],
+            "slovakia": [
+                "korona.gov.sk/"
+            ],
+            "slovenia": [
+                "gov.si/teme/koronavirus/"
+            ],
+            "south africa": [
+                "nicd.ac.za/covid-19-update-18/"
+            ],
+            "south korea": [
+                "cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+            ],
+            "spain": [
+                "rtve.es/noticias/20200327/mapa-del-coronavirus-espana/2004681.shtml"
+            ],
+            "sweden": [
+                "platz.se/coronavirus/?c=219",
+                "svt.se/datajournalistik/the-spread-of-the-coronavirus/"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/en",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "thailand": [
+                "covid19.moph.go.th/#/portal"
+            ],
+            "turkey": [
+                "covid19.saglik.gov.tr/tr/"
+            ],
+            "ukraine": [
+                "kmu.gov.ua/news/mi-pracyuyemo-na-viperedzhennya-premyer-ministr",
+                "moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-",
+                "rbc.ua/rus/news/ukraine-vveli-karantin-koronavirusa-1583919251.html/amp"
+            ],
+            "united kingdom": [
+                "gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases",
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "burkina24.com/2020/03/28/covid-19-le-burkina-enregistre-207-cas-confirmes-au-total-et-deux-nouveaux-deces/",
+                "caixin.com/2020-01-23/101507670.html",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "coronavirusecuador.com/",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "english.alarabiya.net/en/News/gulf/2020/03/28/Coronavirus-Saudi-Arabia-confirms-99-new-cases-raising-total-to-1-203.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "gulfnews.com/uae/health/how-first-coronavirus-case-in-uae-was-cured-1.1581323524356",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ittf.com/2020/02/25/2020-world-table-tennis-championships-postponed-due-covid-19/",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "promedmail.org/promed-post/?id=6866757",
+                "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/se-asia/thailand-reports-109-new-coronavirus-cases-and-one-death?",
+                "straitstimes.com/singapore/health/70-new-coronavirus-patients-in-singapore-of-which-41-are-imported-cases",
+                "svaboda.org/a/30482169.html",
+                "svaboda.org/a/30499460.html",
+                "svaboda.org/a/30505011.html",
+                "the961.com/coronavirus/",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---23-march-2020",
+                "worldometers.info/coronavirus/",
+                "worldometers.info/coronavirus/",
+                "стопкоронавірус.рф/"
+            ],
+            "uzbekistan": [
+                "coronavirus.uz/ru"
+            ],
+            "vietnam": [
+                "ncov.moh.gov.vn/"
+            ]
+        }
+    },
+    "2020-04-11": {
+        "links": {
+            "china": [
+                "ганконг",
+                "кітай",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "france": [
+                "францыя"
+            ],
+            "germany": [
+                "volkswagen",
+                "германія"
+            ],
+            "iran": [
+                "іран"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя",
+                "пусан"
+            ],
+            "spain": [
+                "іспанія"
+            ],
+            "switzerland": [
+                "швейцарыя"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "ukraine": [
+                "украіна"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "albania": [
+                "coronavirus.al/statistika/"
+            ],
+            "argentina": [
+                "argentina.gob.ar/coronavirus/informe-diario"
+            ],
+            "armenia": [
+                "ncdc.am/coronavirus/confirmed-cases-by-days/"
+            ],
+            "australia": [
+                "news.com.au/topics/coronavirus"
+            ],
+            "austria": [
+                "sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html"
+            ],
+            "azerbaijan": [
+                "koronavirusinfo.az/azərbaycanda-cari-vəziyyət/"
+            ],
+            "bahrain": [
+                "moh.gov.bh/COVID19"
+            ],
+            "belarus": [
+                "nn.by/?c=ar&i=248171",
+                "nn.by/?c=ar&i=248609",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "belgium": [
+                "info-coronavirus.be/en/news/"
+            ],
+            "bolivia": [
+                "boliviasegura.gob.bo/categoria/comunicados-oficiales/"
+            ],
+            "bosnia and herzegovina": [
+                "klix.ba/koronavirus-u-bih"
+            ],
+            "brazil": [
+                ".folha.uol.com.br/equilibrioesaude/2020/02/brasil-confirma-primeiro-caso-do-novo-coronavirus.shtml"
+            ],
+            "bulgaria": [
+                "mh.government.bg/bg/novini/aktualno/"
+            ],
+            "cambodia": [
+                "covid19-map.cdcmoh.gov.kh"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "chile": [
+                "minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "croatia": [
+                "civilna-zastita.gov.hr/vijesti/priopcenje-za-medije-stozera-civilne-zastite-republike-hrvatske-od-17-ozujka-2020-u-19-sati/2264"
+            ],
+            "czech republic": [
+                "onemocneni-aktualne.mzcr.cz/covid-19"
+            ],
+            "denmark": [
+                "sst.dk/da/corona-eng/COVID-19-update_-statistics-and-charts"
+            ],
+            "dominican republic": [
+                "elnacional.com.do/aumentan-a-28-los-fallecidos-por-coronavirus-en-republica-dominicana/"
+            ],
+            "estonia": [
+                "terviseamet.ee/ru/COVID-19"
+            ],
+            "finland": [
+                "ins.gov.co/Noticias/Paginas/Coronavirus.aspx",
+                "thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates"
+            ],
+            "france": [
+                "santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+            ],
+            "georgia": [
+                "stopcov.ge/en/"
+            ],
+            "germany": [
+                "interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
+                "rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html"
+            ],
+            "greece": [
+                "moh.gov.gr/articles/ministry/grafeio-typoy"
+            ],
+            "guatemala": [
+                "mspas.gob.gt/index.php/noticias/coronavirus-2019-ncov"
+            ],
+            "guernsey": [
+                "gov.gg/covid19testresults"
+            ],
+            "honduras": [
+                "laprensa.hn/honduras/1367729-410/reportan-27-nuevos-casos-covid-19-honduras-95-contagiados-total"
+            ],
+            "hong kong": [
+                "coronavirus.gov.hk/eng/index.html",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "hungary": [
+                "koronavirus.gov.hu"
+            ],
+            "iceland": [
+                "covid.is/tolulegar-upplysingar"
+            ],
+            "india": [
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "indonesia": [
+                "covid19.kemkes.go.id/"
+            ],
+            "iran": [
+                "en.irna.ir/news/83730677/Official-11-679-Iranians-survived-coronavirus"
+            ],
+            "ireland": [
+                "gov.ie/en/news/7e0924-latest-updates-on-covid-19-coronavirus/"
+            ],
+            "isle of man": [
+                "covid19.gov.im/general-information/latest-updates/"
+            ],
+            "italy": [
+                "salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto"
+            ],
+            "japan": [
+                "mhlw.go.jp/stf/newpage_10465.html",
+                "mhlw.go.jp/stf/newpage_10540.html"
+            ],
+            "jordan": [
+                "petra.gov.jo/Include/ListNews.jsp?lang=en&name=en_news"
+            ],
+            "kazakhstan": [
+                "coronavirus2020.kz/ru",
+                "vlast.kz/novosti/38029-v-livii-priostanovili-boevye-dejstvia-iz-za-koronavirusa.html?utm_source=yxnews&utm_medium=mobile&utm_referrer=https%3A%2F%2Fyandex.by%2Fnews"
+            ],
+            "latvia": [
+                "arkartassituacija.gov.lv/"
+            ],
+            "lebanon": [
+                "corona.ministryinfo.gov.lb"
+            ],
+            "lithuania": [
+                "sam.lrv.lt/koronavirusas"
+            ],
+            "luxembourg": [
+                "gouvernement.lu/en/dossiers.gouv_msan%2Ben%2Bdossiers%2B2020%2Bcorona-virus.html"
+            ],
+            "macao": [
+                "ssm.gov.mo/apps1/PreventCOVID-19/en.aspx"
+            ],
+            "macedonia": [
+                "covid19.mk/"
+            ],
+            "malaysia": [
+                "moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+                "thestar.com.my/news/nation/2020/03/28/covid-19-159-new-cases-reported-death-toll-at-27"
+            ],
+            "mexico": [
+                "riodoce.mx/2020/03/27/se-registran-132-casos-nuevos-de-covid-19-en-mexico-suman-717/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjQ0NCIsInRvZ2dsZSI6ZmFsc2V9"
+            ],
+            "moldova": [
+                "ansp.md/index.php/category/actualizarea-situatiei-privind-coronavirus/"
+            ],
+            "monaco": [
+                "gouv.mc/Action-Gouvernementale/Coronavirus-Covid-2019/Actualites/CORONAVIRUS-neuf-nouveaux-cas-positifs-reveles-a-Monaco"
+            ],
+            "morocco": [
+                "covidmaroc.ma/pages/Accueil.aspx"
+            ],
+            "new zealand": [
+                "health.govt.nz/news-media/media-releases/covid-19-three-new-cases-linked-overseas"
+            ],
+            "nigeria": [
+                "covid19.ncdc.gov.ng"
+            ],
+            "norway": [
+                "vg.no/spesial/2020/corona-viruset/"
+            ],
+            "oman": [
+                "covid19.moh.gov.om/#/home"
+            ],
+            "pakistan": [
+                "covid.gov.pk/"
+            ],
+            "palestinian territory": [
+                "corona.ps"
+            ],
+            "panama": [
+                "minsa.gob.pa/coronavirus-covid19"
+            ],
+            "paraguay": [
+                "mspbs.gov.py/covid-19.php"
+            ],
+            "peru": [
+                "gob.pe/8662-ministerio-de-salud-coronavirus-en-el-peru/"
+            ],
+            "philippines": [
+                "doh.gov.ph/2019-nCoV"
+            ],
+            "portugal": [
+                "covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/"
+            ],
+            "qatar": [
+                "moph.gov.qa/english/Pages/Coronavirus2019.aspx"
+            ],
+            "romania": [
+                "mai.gov.ro/informare-covid-19-grupul-de-comunicare-strategica-16-martie-ora-18-00/"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4242785",
+                "kommersant.ru/doc/4267312",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "ria.ru/20200319/1568814432.html",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "ttsport.ru/srocno-cempionat-mira-otlozen-iz-za-koronavirusa/pub.5662/",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "serbia": [
+                "covid19.rs/homepage-english/"
+            ],
+            "singapore": [
+                "moh.gov.sg/covid-19"
+            ],
+            "slovakia": [
+                "korona.gov.sk/"
+            ],
+            "slovenia": [
+                "gov.si/teme/koronavirus/"
+            ],
+            "south africa": [
+                "nicd.ac.za/covid-19-update-18/"
+            ],
+            "south korea": [
+                "cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+            ],
+            "spain": [
+                "rtve.es/noticias/20200327/mapa-del-coronavirus-espana/2004681.shtml"
+            ],
+            "sri lanka": [
+                "epid.gov.lk/web/index.php?lang=en"
+            ],
+            "sweden": [
+                "platz.se/coronavirus/?c=219",
+                "svt.se/datajournalistik/the-spread-of-the-coronavirus/"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/en",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "thailand": [
+                "covid19.moph.go.th/#/portal"
+            ],
+            "tunisia": [
+                "covid-19.tn/"
+            ],
+            "turkey": [
+                "covid19.saglik.gov.tr/tr/"
+            ],
+            "ukraine": [
+                "kmu.gov.ua/news/mi-pracyuyemo-na-viperedzhennya-premyer-ministr",
+                "moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-",
+                "rbc.ua/rus/news/ukraine-vveli-karantin-koronavirusa-1583919251.html/amp"
+            ],
+            "united kingdom": [
+                "alaraby.co.uk/society/2020/3/26/التحديث-اليومي-لتفشي-كورونا-عربيا-وحالات-التعافي-1",
+                "gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases",
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "burkina24.com/2020/03/28/covid-19-le-burkina-enregistre-207-cas-confirmes-au-total-et-deux-nouveaux-deces/",
+                "caixin.com/2020-01-23/101507670.html",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "coronavirusecuador.com/",
+                "covid-19.sr/",
+                "covid19honduras.org/",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dhakatribune.com/bangladesh/2020/03/27/coronavirus-4-more-tested-positive-in-bangladesh-total-infected-48",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "english.alarabiya.net/en/News/gulf/2020/03/28/Coronavirus-Saudi-Arabia-confirms-99-new-cases-raising-total-to-1-203.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0Dd9MY7njiNtDkPpPt8R2SeD4pW_6TO12axwKrT4CcegckY4P4Ezt43f4#/2096bd4b051b42948ac3f5747e80c3a5",
+                "govern.ad/coronavirus",
+                "gulfnews.com/uae/health/how-first-coronavirus-case-in-uae-was-cured-1.1581323524356",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ittf.com/2020/02/25/2020-world-table-tennis-championships-postponed-due-covid-19/",
+                "moskva.bz/koronavirus.html",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "promedmail.org/promed-post/?id=6866757",
+                "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/se-asia/thailand-reports-109-new-coronavirus-cases-and-one-death?",
+                "straitstimes.com/singapore/health/70-new-coronavirus-patients-in-singapore-of-which-41-are-imported-cases",
+                "svaboda.org/a/30482169.html",
+                "svaboda.org/a/30499460.html",
+                "svaboda.org/a/30505011.html",
+                "t.me/minzdravbelarus/270",
+                "the961.com/coronavirus/",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---23-march-2020",
+                "worldometers.info/coronavirus/",
+                "worldometers.info/coronavirus/",
+                "стопкоронавірус.рф/"
+            ],
+            "uzbekistan": [
+                "coronavirus.uz/ru"
+            ],
+            "vietnam": [
+                "ncov.moh.gov.vn/"
+            ]
+        }
+    },
+    "2020-05-30": {
+        "links": {
+            "china": [
+                "ганконг",
+                "кітай",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "france": [
+                "францыя"
+            ],
+            "germany": [
+                "volkswagen",
+                "германія"
+            ],
+            "iran": [
+                "іран"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя",
+                "пусан"
+            ],
+            "spain": [
+                "іспанія"
+            ],
+            "switzerland": [
+                "швейцарыя"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "ukraine": [
+                "украіна"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "albania": [
+                "coronavirus.al/statistika/"
+            ],
+            "argentina": [
+                "argentina.gob.ar/coronavirus/informe-diario"
+            ],
+            "armenia": [
+                "ncdc.am/coronavirus/confirmed-cases-by-days/"
+            ],
+            "australia": [
+                "news.com.au/topics/coronavirus"
+            ],
+            "austria": [
+                "sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html"
+            ],
+            "azerbaijan": [
+                "koronavirusinfo.az/azərbaycanda-cari-vəziyyət/"
+            ],
+            "bahrain": [
+                "moh.gov.bh/COVID19"
+            ],
+            "belarus": [
+                "nn.by/?c=ar&i=248171",
+                "nn.by/?c=ar&i=248609",
+                "tvr.by/bel/news/v_mire/rynok_v_ukhane_ne_istochnik_zarazheniya_kitayskie_uchenye_proveli_rassledovanie_proiskhozhdeniya_cov/",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "belgium": [
+                "info-coronavirus.be/en/news/"
+            ],
+            "bolivia": [
+                "boliviasegura.gob.bo/categoria/comunicados-oficiales/"
+            ],
+            "bosnia and herzegovina": [
+                "klix.ba/koronavirus-u-bih"
+            ],
+            "brazil": [
+                ".folha.uol.com.br/equilibrioesaude/2020/02/brasil-confirma-primeiro-caso-do-novo-coronavirus.shtml"
+            ],
+            "bulgaria": [
+                "mh.government.bg/bg/novini/aktualno/"
+            ],
+            "cambodia": [
+                "covid19-map.cdcmoh.gov.kh"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "chile": [
+                "minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "croatia": [
+                "civilna-zastita.gov.hr/vijesti/priopcenje-za-medije-stozera-civilne-zastite-republike-hrvatske-od-17-ozujka-2020-u-19-sati/2264"
+            ],
+            "czech republic": [
+                "onemocneni-aktualne.mzcr.cz/covid-19"
+            ],
+            "denmark": [
+                "sst.dk/da/corona-eng/COVID-19-update_-statistics-and-charts"
+            ],
+            "dominican republic": [
+                "elnacional.com.do/aumentan-a-28-los-fallecidos-por-coronavirus-en-republica-dominicana/"
+            ],
+            "estonia": [
+                "terviseamet.ee/ru/COVID-19"
+            ],
+            "finland": [
+                "ins.gov.co/Noticias/Paginas/Coronavirus.aspx",
+                "thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates"
+            ],
+            "france": [
+                "santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+            ],
+            "georgia": [
+                "stopcov.ge/en/"
+            ],
+            "germany": [
+                "interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
+                "rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html"
+            ],
+            "greece": [
+                "moh.gov.gr/articles/ministry/grafeio-typoy"
+            ],
+            "guatemala": [
+                "mspas.gob.gt/index.php/noticias/coronavirus-2019-ncov"
+            ],
+            "guernsey": [
+                "gov.gg/covid19testresults"
+            ],
+            "honduras": [
+                "laprensa.hn/honduras/1367729-410/reportan-27-nuevos-casos-covid-19-honduras-95-contagiados-total"
+            ],
+            "hong kong": [
+                "coronavirus.gov.hk/eng/index.html",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "hungary": [
+                "koronavirus.gov.hu"
+            ],
+            "iceland": [
+                "covid.is/tolulegar-upplysingar"
+            ],
+            "india": [
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "indonesia": [
+                "covid19.kemkes.go.id/"
+            ],
+            "iran": [
+                "en.irna.ir/news/83730677/Official-11-679-Iranians-survived-coronavirus"
+            ],
+            "ireland": [
+                "gov.ie/en/news/7e0924-latest-updates-on-covid-19-coronavirus/"
+            ],
+            "isle of man": [
+                "covid19.gov.im/general-information/latest-updates/"
+            ],
+            "italy": [
+                "salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto"
+            ],
+            "japan": [
+                "mhlw.go.jp/stf/newpage_10465.html",
+                "mhlw.go.jp/stf/newpage_10540.html"
+            ],
+            "jordan": [
+                "petra.gov.jo/Include/ListNews.jsp?lang=en&name=en_news"
+            ],
+            "kazakhstan": [
+                "coronavirus2020.kz/ru",
+                "vlast.kz/novosti/38029-v-livii-priostanovili-boevye-dejstvia-iz-za-koronavirusa.html?utm_source=yxnews&utm_medium=mobile&utm_referrer=https%3A%2F%2Fyandex.by%2Fnews"
+            ],
+            "latvia": [
+                "arkartassituacija.gov.lv/"
+            ],
+            "lebanon": [
+                "corona.ministryinfo.gov.lb"
+            ],
+            "lithuania": [
+                "sam.lrv.lt/koronavirusas"
+            ],
+            "luxembourg": [
+                "gouvernement.lu/en/dossiers.gouv_msan%2Ben%2Bdossiers%2B2020%2Bcorona-virus.html"
+            ],
+            "macao": [
+                "ssm.gov.mo/apps1/PreventCOVID-19/en.aspx"
+            ],
+            "macedonia": [
+                "covid19.mk/"
+            ],
+            "malaysia": [
+                "moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+                "thestar.com.my/news/nation/2020/03/28/covid-19-159-new-cases-reported-death-toll-at-27"
+            ],
+            "mexico": [
+                "riodoce.mx/2020/03/27/se-registran-132-casos-nuevos-de-covid-19-en-mexico-suman-717/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjQ0NCIsInRvZ2dsZSI6ZmFsc2V9"
+            ],
+            "moldova": [
+                "ansp.md/index.php/category/actualizarea-situatiei-privind-coronavirus/"
+            ],
+            "monaco": [
+                "gouv.mc/Action-Gouvernementale/Coronavirus-Covid-2019/Actualites/CORONAVIRUS-neuf-nouveaux-cas-positifs-reveles-a-Monaco"
+            ],
+            "morocco": [
+                "covidmaroc.ma/pages/Accueil.aspx"
+            ],
+            "new zealand": [
+                "health.govt.nz/news-media/media-releases/covid-19-three-new-cases-linked-overseas"
+            ],
+            "nigeria": [
+                "covid19.ncdc.gov.ng"
+            ],
+            "norway": [
+                "vg.no/spesial/2020/corona-viruset/"
+            ],
+            "oman": [
+                "covid19.moh.gov.om/#/home"
+            ],
+            "pakistan": [
+                "covid.gov.pk/"
+            ],
+            "palestinian territory": [
+                "corona.ps"
+            ],
+            "panama": [
+                "minsa.gob.pa/coronavirus-covid19"
+            ],
+            "paraguay": [
+                "mspbs.gov.py/covid-19.php"
+            ],
+            "peru": [
+                "gob.pe/8662-ministerio-de-salud-coronavirus-en-el-peru/"
+            ],
+            "philippines": [
+                "doh.gov.ph/2019-nCoV"
+            ],
+            "portugal": [
+                "covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/"
+            ],
+            "qatar": [
+                "moph.gov.qa/english/Pages/Coronavirus2019.aspx"
+            ],
+            "romania": [
+                "mai.gov.ro/informare-covid-19-grupul-de-comunicare-strategica-16-martie-ora-18-00/"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4242785",
+                "kommersant.ru/doc/4267312",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "ria.ru/20200319/1568814432.html",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "ttsport.ru/srocno-cempionat-mira-otlozen-iz-za-koronavirusa/pub.5662/",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "serbia": [
+                "covid19.rs/homepage-english/"
+            ],
+            "singapore": [
+                "moh.gov.sg/covid-19"
+            ],
+            "slovakia": [
+                "korona.gov.sk/"
+            ],
+            "slovenia": [
+                "gov.si/teme/koronavirus/"
+            ],
+            "south africa": [
+                "nicd.ac.za/covid-19-update-18/"
+            ],
+            "south korea": [
+                "cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+            ],
+            "spain": [
+                "rtve.es/noticias/20200327/mapa-del-coronavirus-espana/2004681.shtml"
+            ],
+            "sri lanka": [
+                "epid.gov.lk/web/index.php?lang=en"
+            ],
+            "sweden": [
+                "platz.se/coronavirus/?c=219",
+                "svt.se/datajournalistik/the-spread-of-the-coronavirus/"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/en",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "thailand": [
+                "covid19.moph.go.th/#/portal"
+            ],
+            "tunisia": [
+                "covid-19.tn/"
+            ],
+            "turkey": [
+                "covid19.saglik.gov.tr/tr/"
+            ],
+            "ukraine": [
+                "kmu.gov.ua/news/mi-pracyuyemo-na-viperedzhennya-premyer-ministr",
+                "moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-",
+                "rbc.ua/rus/news/ukraine-vveli-karantin-koronavirusa-1583919251.html/amp"
+            ],
+            "united kingdom": [
+                "alaraby.co.uk/society/2020/3/26/التحديث-اليومي-لتفشي-كورونا-عربيا-وحالات-التعافي-1",
+                "gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases",
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "burkina24.com/2020/03/28/covid-19-le-burkina-enregistre-207-cas-confirmes-au-total-et-deux-nouveaux-deces/",
+                "caixin.com/2020-01-23/101507670.html",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "coronavirusecuador.com/",
+                "covid-19.sr/",
+                "covid19honduras.org/",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dhakatribune.com/bangladesh/2020/03/27/coronavirus-4-more-tested-positive-in-bangladesh-total-infected-48",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "english.alarabiya.net/en/News/gulf/2020/03/28/Coronavirus-Saudi-Arabia-confirms-99-new-cases-raising-total-to-1-203.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0Dd9MY7njiNtDkPpPt8R2SeD4pW_6TO12axwKrT4CcegckY4P4Ezt43f4#/2096bd4b051b42948ac3f5747e80c3a5",
+                "govern.ad/coronavirus",
+                "gulfnews.com/uae/health/how-first-coronavirus-case-in-uae-was-cured-1.1581323524356",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ittf.com/2020/02/25/2020-world-table-tennis-championships-postponed-due-covid-19/",
+                "moskva.bz/koronavirus.html",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "promedmail.org/promed-post/?id=6866757",
+                "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/se-asia/thailand-reports-109-new-coronavirus-cases-and-one-death?",
+                "straitstimes.com/singapore/health/70-new-coronavirus-patients-in-singapore-of-which-41-are-imported-cases",
+                "svaboda.org/a/30482169.html",
+                "svaboda.org/a/30499460.html",
+                "svaboda.org/a/30505011.html",
+                "t.me/minzdravbelarus/270",
+                "the961.com/coronavirus/",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---23-march-2020",
+                "worldometers.info/coronavirus/",
+                "worldometers.info/coronavirus/",
+                "стопкоронавірус.рф/"
+            ],
+            "uzbekistan": [
+                "coronavirus.uz/ru"
+            ],
+            "vietnam": [
+                "ncov.moh.gov.vn/"
+            ]
+        }
+    },
+    "2020-07-03": {
+        "links": {
+            "china": [
+                "ганконг",
+                "кітай",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "france": [
+                "францыя"
+            ],
+            "germany": [
+                "volkswagen",
+                "германія"
+            ],
+            "iran": [
+                "іран"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя",
+                "пусан"
+            ],
+            "spain": [
+                "іспанія"
+            ],
+            "switzerland": [
+                "швейцарыя"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "ukraine": [
+                "украіна"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "albania": [
+                "coronavirus.al/statistika/"
+            ],
+            "argentina": [
+                "argentina.gob.ar/coronavirus/informe-diario"
+            ],
+            "armenia": [
+                "ncdc.am/coronavirus/confirmed-cases-by-days/"
+            ],
+            "australia": [
+                "news.com.au/topics/coronavirus"
+            ],
+            "austria": [
+                "sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html"
+            ],
+            "azerbaijan": [
+                "koronavirusinfo.az/azərbaycanda-cari-vəziyyət/"
+            ],
+            "bahrain": [
+                "moh.gov.bh/COVID19"
+            ],
+            "belarus": [
+                "nashaniva.by/?c=ar&i=248171",
+                "nashaniva.by/?c=ar&i=248609",
+                "tvr.by/bel/news/v_mire/rynok_v_ukhane_ne_istochnik_zarazheniya_kitayskie_uchenye_proveli_rassledovanie_proiskhozhdeniya_cov/",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "belgium": [
+                "info-coronavirus.be/en/news/"
+            ],
+            "bolivia": [
+                "boliviasegura.gob.bo/categoria/comunicados-oficiales/"
+            ],
+            "bosnia and herzegovina": [
+                "klix.ba/koronavirus-u-bih"
+            ],
+            "brazil": [
+                ".folha.uol.com.br/equilibrioesaude/2020/02/brasil-confirma-primeiro-caso-do-novo-coronavirus.shtml"
+            ],
+            "bulgaria": [
+                "mh.government.bg/bg/novini/aktualno/"
+            ],
+            "cambodia": [
+                "covid19-map.cdcmoh.gov.kh"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "chile": [
+                "minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "croatia": [
+                "civilna-zastita.gov.hr/vijesti/priopcenje-za-medije-stozera-civilne-zastite-republike-hrvatske-od-17-ozujka-2020-u-19-sati/2264"
+            ],
+            "czech republic": [
+                "onemocneni-aktualne.mzcr.cz/covid-19"
+            ],
+            "denmark": [
+                "sst.dk/da/corona-eng/COVID-19-update_-statistics-and-charts"
+            ],
+            "dominican republic": [
+                "elnacional.com.do/aumentan-a-28-los-fallecidos-por-coronavirus-en-republica-dominicana/"
+            ],
+            "estonia": [
+                "terviseamet.ee/ru/COVID-19"
+            ],
+            "finland": [
+                "ins.gov.co/Noticias/Paginas/Coronavirus.aspx",
+                "thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates"
+            ],
+            "france": [
+                "santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+            ],
+            "georgia": [
+                "stopcov.ge/en/"
+            ],
+            "germany": [
+                "interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
+                "rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html"
+            ],
+            "greece": [
+                "moh.gov.gr/articles/ministry/grafeio-typoy"
+            ],
+            "guatemala": [
+                "mspas.gob.gt/index.php/noticias/coronavirus-2019-ncov"
+            ],
+            "guernsey": [
+                "gov.gg/covid19testresults"
+            ],
+            "honduras": [
+                "laprensa.hn/honduras/1367729-410/reportan-27-nuevos-casos-covid-19-honduras-95-contagiados-total"
+            ],
+            "hong kong": [
+                "coronavirus.gov.hk/eng/index.html",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "hungary": [
+                "koronavirus.gov.hu"
+            ],
+            "iceland": [
+                "covid.is/tolulegar-upplysingar"
+            ],
+            "india": [
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "indonesia": [
+                "covid19.kemkes.go.id/"
+            ],
+            "iran": [
+                "en.irna.ir/news/83730677/Official-11-679-Iranians-survived-coronavirus"
+            ],
+            "ireland": [
+                "gov.ie/en/news/7e0924-latest-updates-on-covid-19-coronavirus/"
+            ],
+            "isle of man": [
+                "covid19.gov.im/general-information/latest-updates/"
+            ],
+            "italy": [
+                "salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto"
+            ],
+            "japan": [
+                "mhlw.go.jp/stf/newpage_10465.html",
+                "mhlw.go.jp/stf/newpage_10540.html"
+            ],
+            "jordan": [
+                "petra.gov.jo/Include/ListNews.jsp?lang=en&name=en_news"
+            ],
+            "kazakhstan": [
+                "coronavirus2020.kz/ru",
+                "vlast.kz/novosti/38029-v-livii-priostanovili-boevye-dejstvia-iz-za-koronavirusa.html?utm_source=yxnews&utm_medium=mobile&utm_referrer=https%3A%2F%2Fyandex.by%2Fnews"
+            ],
+            "latvia": [
+                "arkartassituacija.gov.lv/"
+            ],
+            "lebanon": [
+                "corona.ministryinfo.gov.lb"
+            ],
+            "lithuania": [
+                "sam.lrv.lt/koronavirusas"
+            ],
+            "luxembourg": [
+                "gouvernement.lu/en/dossiers.gouv_msan%2Ben%2Bdossiers%2B2020%2Bcorona-virus.html"
+            ],
+            "macao": [
+                "ssm.gov.mo/apps1/PreventCOVID-19/en.aspx"
+            ],
+            "macedonia": [
+                "covid19.mk/"
+            ],
+            "malaysia": [
+                "moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+                "thestar.com.my/news/nation/2020/03/28/covid-19-159-new-cases-reported-death-toll-at-27"
+            ],
+            "mexico": [
+                "riodoce.mx/2020/03/27/se-registran-132-casos-nuevos-de-covid-19-en-mexico-suman-717/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjQ0NCIsInRvZ2dsZSI6ZmFsc2V9"
+            ],
+            "moldova": [
+                "ansp.md/index.php/category/actualizarea-situatiei-privind-coronavirus/"
+            ],
+            "monaco": [
+                "gouv.mc/Action-Gouvernementale/Coronavirus-Covid-2019/Actualites/CORONAVIRUS-neuf-nouveaux-cas-positifs-reveles-a-Monaco"
+            ],
+            "morocco": [
+                "covidmaroc.ma/pages/Accueil.aspx"
+            ],
+            "new zealand": [
+                "health.govt.nz/news-media/media-releases/covid-19-three-new-cases-linked-overseas"
+            ],
+            "nigeria": [
+                "covid19.ncdc.gov.ng"
+            ],
+            "norway": [
+                "vg.no/spesial/2020/corona-viruset/"
+            ],
+            "oman": [
+                "covid19.moh.gov.om/#/home"
+            ],
+            "pakistan": [
+                "covid.gov.pk/"
+            ],
+            "palestinian territory": [
+                "corona.ps"
+            ],
+            "panama": [
+                "minsa.gob.pa/coronavirus-covid19"
+            ],
+            "paraguay": [
+                "mspbs.gov.py/covid-19.php"
+            ],
+            "peru": [
+                "gob.pe/8662-ministerio-de-salud-coronavirus-en-el-peru/"
+            ],
+            "philippines": [
+                "doh.gov.ph/2019-nCoV"
+            ],
+            "portugal": [
+                "covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/"
+            ],
+            "qatar": [
+                "moph.gov.qa/english/Pages/Coronavirus2019.aspx"
+            ],
+            "romania": [
+                "mai.gov.ro/informare-covid-19-grupul-de-comunicare-strategica-16-martie-ora-18-00/"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4242785",
+                "kommersant.ru/doc/4267312",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "ria.ru/20200319/1568814432.html",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "ttsport.ru/srocno-cempionat-mira-otlozen-iz-za-koronavirusa/pub.5662/",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "serbia": [
+                "covid19.rs/homepage-english/"
+            ],
+            "singapore": [
+                "moh.gov.sg/covid-19"
+            ],
+            "slovakia": [
+                "korona.gov.sk/"
+            ],
+            "slovenia": [
+                "gov.si/teme/koronavirus/"
+            ],
+            "south africa": [
+                "nicd.ac.za/covid-19-update-18/"
+            ],
+            "south korea": [
+                "cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+            ],
+            "spain": [
+                "rtve.es/noticias/20200327/mapa-del-coronavirus-espana/2004681.shtml"
+            ],
+            "sri lanka": [
+                "epid.gov.lk/web/index.php?lang=en"
+            ],
+            "sweden": [
+                "platz.se/coronavirus/?c=219",
+                "svt.se/datajournalistik/the-spread-of-the-coronavirus/"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/en",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "thailand": [
+                "covid19.moph.go.th/#/portal"
+            ],
+            "tunisia": [
+                "covid-19.tn/"
+            ],
+            "turkey": [
+                "covid19.saglik.gov.tr/tr/"
+            ],
+            "ukraine": [
+                "kmu.gov.ua/news/mi-pracyuyemo-na-viperedzhennya-premyer-ministr",
+                "moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-",
+                "rbc.ua/rus/news/ukraine-vveli-karantin-koronavirusa-1583919251.html/amp"
+            ],
+            "united kingdom": [
+                "alaraby.co.uk/society/2020/3/26/التحديث-اليومي-لتفشي-كورونا-عربيا-وحالات-التعافي-1",
+                "gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases",
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "burkina24.com/2020/03/28/covid-19-le-burkina-enregistre-207-cas-confirmes-au-total-et-deux-nouveaux-deces/",
+                "caixin.com/2020-01-23/101507670.html",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "coronavirusecuador.com/",
+                "covid-19.sr/",
+                "covid19honduras.org/",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dhakatribune.com/bangladesh/2020/03/27/coronavirus-4-more-tested-positive-in-bangladesh-total-infected-48",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "english.alarabiya.net/en/News/gulf/2020/03/28/Coronavirus-Saudi-Arabia-confirms-99-new-cases-raising-total-to-1-203.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0Dd9MY7njiNtDkPpPt8R2SeD4pW_6TO12axwKrT4CcegckY4P4Ezt43f4#/2096bd4b051b42948ac3f5747e80c3a5",
+                "govern.ad/coronavirus",
+                "gulfnews.com/uae/health/how-first-coronavirus-case-in-uae-was-cured-1.1581323524356",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ittf.com/2020/02/25/2020-world-table-tennis-championships-postponed-due-covid-19/",
+                "moskva.bz/koronavirus.html",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "promedmail.org/promed-post/?id=6866757",
+                "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/se-asia/thailand-reports-109-new-coronavirus-cases-and-one-death?",
+                "straitstimes.com/singapore/health/70-new-coronavirus-patients-in-singapore-of-which-41-are-imported-cases",
+                "svaboda.org/a/30482169.html",
+                "svaboda.org/a/30499460.html",
+                "svaboda.org/a/30505011.html",
+                "t.me/minzdravbelarus/270",
+                "the961.com/coronavirus/",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---23-march-2020",
+                "worldometers.info/coronavirus/",
+                "worldometers.info/coronavirus/",
+                "стопкоронавірус.рф/"
+            ],
+            "uzbekistan": [
+                "coronavirus.uz/ru"
+            ],
+            "vietnam": [
+                "ncov.moh.gov.vn/"
+            ]
+        }
+    },
+    "2020-07-10": {
+        "links": {
+            "china": [
+                "ганконг",
+                "кітай",
+                "пекін",
+                "ухань",
+                "хуанган",
+                "шэньчжэнь",
+                "эчжоу"
+            ],
+            "france": [
+                "францыя"
+            ],
+            "germany": [
+                "volkswagen",
+                "германія"
+            ],
+            "iran": [
+                "іран"
+            ],
+            "italy": [
+                "венецыя",
+                "мілан",
+                "італія"
+            ],
+            "japan": [
+                "японія"
+            ],
+            "malaysia": [
+                "малайзія"
+            ],
+            "mongolia": [
+                "манголія"
+            ],
+            "philippines": [
+                "філіпіны"
+            ],
+            "singapore": [
+                "сінгапур"
+            ],
+            "south korea": [
+                "паўднёвая карэя",
+                "пусан"
+            ],
+            "spain": [
+                "іспанія"
+            ],
+            "switzerland": [
+                "швейцарыя"
+            ],
+            "thailand": [
+                "бангкок",
+                "тайланд"
+            ],
+            "ukraine": [
+                "украіна"
+            ],
+            "united states": [
+                "apple",
+                "лос-анджэлес",
+                "нью-ёрк",
+                "сан-францыска",
+                "сіэтл"
+            ],
+            "vietnam": [
+                "ханой"
+            ]
+        },
+        "references": {
+            "albania": [
+                "coronavirus.al/statistika/"
+            ],
+            "argentina": [
+                "argentina.gob.ar/coronavirus/informe-diario"
+            ],
+            "armenia": [
+                "ncdc.am/coronavirus/confirmed-cases-by-days/"
+            ],
+            "australia": [
+                "news.com.au/topics/coronavirus"
+            ],
+            "austria": [
+                "sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html"
+            ],
+            "azerbaijan": [
+                "koronavirusinfo.az/azərbaycanda-cari-vəziyyət/"
+            ],
+            "bahrain": [
+                "moh.gov.bh/COVID19"
+            ],
+            "belarus": [
+                "nashaniva.by/?c=ar&i=248171",
+                "nashaniva.by/?c=ar&i=248609",
+                "nashaniva.by/?c=ar&i=255005",
+                "tvr.by/bel/news/v_mire/rynok_v_ukhane_ne_istochnik_zarazheniya_kitayskie_uchenye_proveli_rassledovanie_proiskhozhdeniya_cov/",
+                "zviazda.by/be/news/20200311/1583945845-susvetnaya-arganizacyya-ahovy-zdarouya-abyavila-pandemiyu-karanavirusa-u"
+            ],
+            "belgium": [
+                "info-coronavirus.be/en/news/"
+            ],
+            "bolivia": [
+                "boliviasegura.gob.bo/categoria/comunicados-oficiales/"
+            ],
+            "bosnia and herzegovina": [
+                "klix.ba/koronavirus-u-bih"
+            ],
+            "brazil": [
+                ".folha.uol.com.br/equilibrioesaude/2020/02/brasil-confirma-primeiro-caso-do-novo-coronavirus.shtml"
+            ],
+            "bulgaria": [
+                "mh.government.bg/bg/novini/aktualno/"
+            ],
+            "cambodia": [
+                "covid19-map.cdcmoh.gov.kh"
+            ],
+            "canada": [
+                "globalnews.ca/news/6474270/coronavirus-confirmed-toronto/"
+            ],
+            "chile": [
+                "minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/"
+            ],
+            "china": [
+                "3g.dxy.cn/newh5/view/pneumonia",
+                "news.sina.com.cn/c/2020-01-23/doc-iihnzhha4295556.shtml",
+                "nhc.gov.cn/yzygj/s7653p/202002/18c1bb43965a4492907957875de02ae7.shtml",
+                "scmp.com/news/china/society/article/3046233/wuhan-pneumonia-how-search-source-mystery-illness-unfolded",
+                "scmp.com/news/world/middle-east/article/3048057/china-coronavirus-uae-confirms-first-cases-middle-east",
+                "thepaper.cn/newsDetail_forward_5609817",
+                "wjw.wuhan.gov.cn/front/web/showDetail/2020011609057"
+            ],
+            "croatia": [
+                "civilna-zastita.gov.hr/vijesti/priopcenje-za-medije-stozera-civilne-zastite-republike-hrvatske-od-17-ozujka-2020-u-19-sati/2264"
+            ],
+            "czech republic": [
+                "onemocneni-aktualne.mzcr.cz/covid-19"
+            ],
+            "denmark": [
+                "sst.dk/da/corona-eng/COVID-19-update_-statistics-and-charts"
+            ],
+            "dominican republic": [
+                "elnacional.com.do/aumentan-a-28-los-fallecidos-por-coronavirus-en-republica-dominicana/"
+            ],
+            "estonia": [
+                "terviseamet.ee/ru/COVID-19"
+            ],
+            "finland": [
+                "ins.gov.co/Noticias/Paginas/Coronavirus.aspx",
+                "thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates"
+            ],
+            "france": [
+                "santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+            ],
+            "georgia": [
+                "stopcov.ge/en/"
+            ],
+            "germany": [
+                "interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/",
+                "rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html"
+            ],
+            "greece": [
+                "moh.gov.gr/articles/ministry/grafeio-typoy"
+            ],
+            "guatemala": [
+                "mspas.gob.gt/index.php/noticias/coronavirus-2019-ncov"
+            ],
+            "guernsey": [
+                "gov.gg/covid19testresults"
+            ],
+            "honduras": [
+                "laprensa.hn/honduras/1367729-410/reportan-27-nuevos-casos-covid-19-honduras-95-contagiados-total"
+            ],
+            "hong kong": [
+                "coronavirus.gov.hk/eng/index.html",
+                "hkcna.hk/content/2020/0123/805512.shtml",
+                "hkcna.hk/content/2020/0123/805512.shtml"
+            ],
+            "hungary": [
+                "koronavirus.gov.hu"
+            ],
+            "iceland": [
+                "covid.is/tolulegar-upplysingar"
+            ],
+            "india": [
+                "pib.gov.in/PressReleseDetail.aspx?PRID=1601095"
+            ],
+            "indonesia": [
+                "covid19.kemkes.go.id/"
+            ],
+            "iran": [
+                "en.irna.ir/news/83730677/Official-11-679-Iranians-survived-coronavirus"
+            ],
+            "ireland": [
+                "gov.ie/en/news/7e0924-latest-updates-on-covid-19-coronavirus/"
+            ],
+            "isle of man": [
+                "covid19.gov.im/general-information/latest-updates/"
+            ],
+            "italy": [
+                "salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto"
+            ],
+            "japan": [
+                "mhlw.go.jp/stf/newpage_10465.html",
+                "mhlw.go.jp/stf/newpage_10540.html"
+            ],
+            "jordan": [
+                "petra.gov.jo/Include/ListNews.jsp?lang=en&name=en_news"
+            ],
+            "kazakhstan": [
+                "coronavirus2020.kz/ru",
+                "vlast.kz/novosti/38029-v-livii-priostanovili-boevye-dejstvia-iz-za-koronavirusa.html?utm_source=yxnews&utm_medium=mobile&utm_referrer=https%3A%2F%2Fyandex.by%2Fnews"
+            ],
+            "latvia": [
+                "arkartassituacija.gov.lv/"
+            ],
+            "lebanon": [
+                "corona.ministryinfo.gov.lb"
+            ],
+            "lithuania": [
+                "sam.lrv.lt/koronavirusas"
+            ],
+            "luxembourg": [
+                "gouvernement.lu/en/dossiers.gouv_msan%2Ben%2Bdossiers%2B2020%2Bcorona-virus.html"
+            ],
+            "macao": [
+                "ssm.gov.mo/apps1/PreventCOVID-19/en.aspx"
+            ],
+            "macedonia": [
+                "covid19.mk/"
+            ],
+            "malaysia": [
+                "moh.gov.my/index.php/pages/view/2019-ncov-wuhan",
+                "thestar.com.my/news/nation/2020/03/28/covid-19-159-new-cases-reported-death-toll-at-27"
+            ],
+            "mexico": [
+                "riodoce.mx/2020/03/27/se-registran-132-casos-nuevos-de-covid-19-en-mexico-suman-717/#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjQ0NCIsInRvZ2dsZSI6ZmFsc2V9"
+            ],
+            "moldova": [
+                "ansp.md/index.php/category/actualizarea-situatiei-privind-coronavirus/"
+            ],
+            "monaco": [
+                "gouv.mc/Action-Gouvernementale/Coronavirus-Covid-2019/Actualites/CORONAVIRUS-neuf-nouveaux-cas-positifs-reveles-a-Monaco"
+            ],
+            "morocco": [
+                "covidmaroc.ma/pages/Accueil.aspx"
+            ],
+            "new zealand": [
+                "health.govt.nz/news-media/media-releases/covid-19-three-new-cases-linked-overseas"
+            ],
+            "nigeria": [
+                "covid19.ncdc.gov.ng"
+            ],
+            "norway": [
+                "vg.no/spesial/2020/corona-viruset/"
+            ],
+            "oman": [
+                "covid19.moh.gov.om/#/home"
+            ],
+            "pakistan": [
+                "covid.gov.pk/"
+            ],
+            "palestinian territory": [
+                "corona.ps"
+            ],
+            "panama": [
+                "minsa.gob.pa/coronavirus-covid19"
+            ],
+            "paraguay": [
+                "mspbs.gov.py/covid-19.php"
+            ],
+            "peru": [
+                "gob.pe/8662-ministerio-de-salud-coronavirus-en-el-peru/"
+            ],
+            "philippines": [
+                "doh.gov.ph/2019-nCoV"
+            ],
+            "portugal": [
+                "covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/"
+            ],
+            "qatar": [
+                "moph.gov.qa/english/Pages/Coronavirus2019.aspx"
+            ],
+            "romania": [
+                "mai.gov.ro/informare-covid-19-grupul-de-comunicare-strategica-16-martie-ora-18-00/"
+            ],
+            "russia": [
+                "360tv.ru/news/puteshestviya/rossija-zakrylas-ot-kitajskih-turistov-no-ne-stala-vygonjat-uzhe-priehavshih/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fyandex.ru%2Fnews]",
+                "forbes.ru/newsroom/biznes/392319-apple-vremenno-zakryla-magaziny-v-kitae-iz-za-koronavirusa",
+                "gazeta.ru/social/news/2020/01/24/n_13953176.shtml",
+                "kommersant.ru/doc/4242785",
+                "kommersant.ru/doc/4267312",
+                "kremlin.ru/events/president/news/62711",
+                "lenta.ru/news/2020/01/23/virus/",
+                "lenta.ru/news/2020/02/02/philippines/",
+                "lenta.ru/news/2020/02/10/more/",
+                "nauka.vesti.ru/article/1260647",
+                "rg.ru/2020/02/23/v-italii-iz-za-koronavirusa-zakryli-dostoprimechatelnosti.html",
+                "ria.ru/20200201/1564145099.html",
+                "ria.ru/20200214/1564682967.html",
+                "ria.ru/20200319/1568814432.html",
+                "tass.ru/obschestvo/7679265",
+                "tass.ru/obschestvo/7682593",
+                "tass.ru/obschestvo/7739987",
+                "ttsport.ru/srocno-cempionat-mira-otlozen-iz-za-koronavirusa/pub.5662/",
+                "youtu.ru/a0q8jIhTsoM",
+                "youtu.ru/jbM7nOd9KJI]"
+            ],
+            "serbia": [
+                "covid19.rs/homepage-english/"
+            ],
+            "singapore": [
+                "moh.gov.sg/covid-19"
+            ],
+            "slovakia": [
+                "korona.gov.sk/"
+            ],
+            "slovenia": [
+                "gov.si/teme/koronavirus/"
+            ],
+            "south africa": [
+                "nicd.ac.za/covid-19-update-18/"
+            ],
+            "south korea": [
+                "cdc.go.kr/board/board.es?mid=a30402000000&bid=0030"
+            ],
+            "spain": [
+                "rtve.es/noticias/20200327/mapa-del-coronavirus-espana/2004681.shtml"
+            ],
+            "sri lanka": [
+                "epid.gov.lk/web/index.php?lang=en"
+            ],
+            "sweden": [
+                "platz.se/coronavirus/?c=219",
+                "svt.se/datajournalistik/the-spread-of-the-coronavirus/"
+            ],
+            "taiwan": [
+                "cdc.gov.tw/en",
+                "cna.com.tw/news/firstnews/202001170168.aspx",
+                "cna.com.tw/news/firstnews/202001230154.aspx",
+                "news.ltn.com.tw/news/world/breakingnews/3048661"
+            ],
+            "thailand": [
+                "covid19.moph.go.th/#/portal"
+            ],
+            "tunisia": [
+                "covid-19.tn/"
+            ],
+            "turkey": [
+                "covid19.saglik.gov.tr/tr/"
+            ],
+            "ukraine": [
+                "kmu.gov.ua/news/mi-pracyuyemo-na-viperedzhennya-premyer-ministr",
+                "moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-ncov-",
+                "rbc.ua/rus/news/ukraine-vveli-karantin-koronavirusa-1583919251.html/amp"
+            ],
+            "united kingdom": [
+                "alaraby.co.uk/society/2020/3/26/التحديث-اليومي-لتفشي-كورونا-عربيا-وحالات-التعافي-1",
+                "gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases",
+                "imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/2019-nCoV-outbreak-report-22-01-2020.pdf"
+            ],
+            "united states": [
+                "bbc.com/news/health-51148303",
+                "bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/",
+                "burkina24.com/2020/03/28/covid-19-le-burkina-enregistre-207-cas-confirmes-au-total-et-deux-nouveaux-deces/",
+                "caixin.com/2020-01-23/101507670.html",
+                "cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly",
+                "cidrap.umn.edu/news-perspective/2020/01/japan-has-1st-novel-coronavirus-case-china-reports-another-death",
+                "cidrap.umn.edu/news-perspective/2020/01/report-thailands-coronavirus-patient-didnt-visit-outbreak-market",
+                "cidrap.umn.edu/news-perspective/2020/01/second-family-cluster-found-wuhan-novel-coronavirus-outbreak",
+                "cidrap.umn.edu/news-perspective/2020/01/who-decision-ncov-emergency-delayed-cases-spike",
+                "coronavirusecuador.com/",
+                "covid-19.sr/",
+                "covid19honduras.org/",
+                "de.wikipedia.org/wiki/2019-nCoV",
+                "dhakatribune.com/bangladesh/2020/03/27/coronavirus-4-more-tested-positive-in-bangladesh-total-infected-48",
+                "dw.com/ru/во-вьетнаме-из-за-коронавируса-закрыли-на-карантин-коммуну/a-52360403",
+                "english.alarabiya.net/en/News/gulf/2020/03/28/Coronavirus-Saudi-Arabia-confirms-99-new-cases-raising-total-to-1-203.html",
+                "english.kyodonews.net/news/2020/01/88c29e019e03-update1-china-announces-2nd-death-from-new-coronavirus.html",
+                "gdi-sk.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR0Dd9MY7njiNtDkPpPt8R2SeD4pW_6TO12axwKrT4CcegckY4P4Ezt43f4#/2096bd4b051b42948ac3f5747e80c3a5",
+                "govern.ad/coronavirus",
+                "gulfnews.com/uae/health/how-first-coronavirus-case-in-uae-was-cured-1.1581323524356",
+                "ijidonline.com/article/S1201-9712(20)30011-4/pdf",
+                "ittf.com/2020/02/25/2020-world-table-tennis-championships-postponed-due-covid-19/",
+                "moskva.bz/koronavirus.html",
+                "ncbi.nlm.nih.gov/nuccore/MN908947",
+                "news.qq.com/zt2020/page/feiyan.htm",
+                "nytimes.com/2020/01/08/health/china-pneumonia-outbreak-virus.html",
+                "nytimes.com/2020/01/10/world/asia/china-virus-wuhan-death.html",
+                "p.dw.com/p/3X3gn",
+                "promedmail.org/promed-post/?id=6866757",
+                "russian.rt.com/world/news/727461-voz-obyavila-pandemiyu",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/east-asia/china-locks-down-two-more-cities-huanggang-and-ezhou-after-wuhan",
+                "straitstimes.com/asia/se-asia/thailand-reports-109-new-coronavirus-cases-and-one-death?",
+                "straitstimes.com/singapore/health/70-new-coronavirus-patients-in-singapore-of-which-41-are-imported-cases",
+                "svaboda.org/a/30482169.html",
+                "svaboda.org/a/30499460.html",
+                "svaboda.org/a/30505011.html",
+                "t.me/minzdravbelarus/270",
+                "the961.com/coronavirus/",
+                "theglobeandmail.com/world/article-this-time-im-scared-sars-virologist-warns-wuhan-virus-far-worse/",
+                "theguardian.com/business/2020/jan/23/financial-markets-china-coronavirus-outbreak-economy",
+                "theguardian.com/business/2020/jan/27/global-markets-slide-on-back-of-coronavirus-concerns-in-china-stocks?CMP=twt_gu",
+                "thestar.com/news/canada/2020/01/28/first-bc-case-of-wuhan-coronavirus-confirmed.html",
+                "who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/",
+                "who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---23-march-2020",
+                "worldometers.info/coronavirus/",
+                "worldometers.info/coronavirus/",
+                "стопкоронавірус.рф/"
+            ],
+            "uzbekistan": [
+                "coronavirus.uz/ru"
+            ],
+            "vietnam": [
+                "ncov.moh.gov.vn/"
+            ]
+        }
+    }
+}

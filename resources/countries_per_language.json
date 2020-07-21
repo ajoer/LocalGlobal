@@ -79,9 +79,11 @@
         "czech republic"
     ],
     "cy": [
+        "great britain",
         "united kingdom"
     ],
     "da": [
+        "kingdom of denmark",
         "denmark",
         "faroe islands",
         "greenland"
@@ -130,7 +132,9 @@
         "falkland islands",
         "micronesia",
         "micronesia (federated states of)",
+        "uk",
         "united kingdom",
+        "great britain",
         "grenada",
         "guernsey",
         "ghana",
@@ -192,6 +196,7 @@
         "tuvalu",
         "tanzania",
         "uganda",
+        "usa",
         "united states",
         "united states minor outlying islands",
         "united states of america",
@@ -303,10 +308,14 @@
         "zaire"
     ],
     "ga": [
+        "great britain",
+        "uk",
         "united kingdom",
         "ireland"
     ],
     "gd": [
+        "great britain",
+        "uk",
         "united kingdom"
     ],
     "gl": [
@@ -381,13 +390,12 @@
         "iraq"
     ],
     "kw": [
+        "great britain",
+        "uk",
         "united kingdom"
     ],
     "ky": [
         "kyrgyzstan"
-    ],
-    "language": [
-        "country_name"
     ],
     "lb": [
         "luxembourg"
@@ -451,6 +459,8 @@
         "belgium",
         "caribbean netherlands",
         "curaçao",
+        "kingdom of the netherlands",
+        "netherlands",
         "the netherlands",
         "suriname",
         "saint martin",
@@ -654,6 +664,7 @@
     ],
     "zh-hans": [
         "china",
+        "people's republic of china",
         "singapore"
     ],
     "zh-hant": [
@@ -661,6 +672,7 @@
         "hong kong (sar of china)",
         "macao",
         "macao (sar of china)",
+        "people's republic of china",
         "taiwan"
     ],
     "zu": [
