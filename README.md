@@ -7,6 +7,8 @@ The code relies on two main packages:
 * my [WikiRevParser package](https://github.com/ajoer/WikiRevParser)
 * my forked and re-worked version of the [Wikipedia API wrapper](https://github.com/ajoer/Wikipedia)
 
+The code is open source and free to use under the MIT license
+
 See visualization output examples, how to run and repo overview below.
 
 ## Visualization output examples
