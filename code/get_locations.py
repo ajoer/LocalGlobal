@@ -94,6 +94,11 @@ def get_links_locations(links, previous_links, previous_links_locations, languag
 	if links == previous_links:
 		print("Reusing previous link locations")
 		return previous_links_locations
+	
+	previous_links = set([link for country in set(previous_links_locations.keys()) for link in previous_links_locations[country]])
+
+	if len(links) == len(set(links)):
+		links = set(links)
 
 	for link in links: 
 
@@ -104,18 +109,17 @@ def get_links_locations(links, previous_links, previous_links_locations, languag
 		link = link.strip()
 		country = None
 
-		if link in set(previous_links):
-			for country in set(previous_links_locations.keys()):
-				if link in previous_links_locations[country]:
-					country = country
-					break
-
-		elif link in set(links_locations_holder.keys()):
+		if link in set(links_locations_holder.keys()):
 			country = links_locations_holder[link]
 
 		elif link in countries:
 			country = link
-			links_locations_holder[link] = country
+
+		# elif link in previous_links:
+		# 	for country in set(previous_links_locations.keys()):
+		# 		if link in previous_links_locations[country]:
+		# 			country = country
+		# 			break
 
 		elif country == None:
 			country = wikidata_query(country4entity % (link.title().strip(), language))
@@ -127,11 +131,10 @@ def get_links_locations(links, previous_links, previous_links_locations, languag
 		if country in set(country_nicknames.keys()):
 			country = country_nicknames[country]
 
-		links_locations_holder[link] = country	
-
 		if country not in set(timestamps_output.keys()):
 			timestamps_output[country] = []
 
+		links_locations_holder[link] = country	
 		timestamps_output[country].append(link)
 
 	return timestamps_output
@@ -142,6 +145,9 @@ def get_reference_locations(references, previous_references, previous_references
 	if references == previous_references:
 		print("Reusing previous references")
 		return previous_references_locations 
+
+	if len(references) == len(set(references)):
+		references = set(references)
 
 	for reference in references:
 
@@ -201,7 +207,7 @@ def main():
 		links_origins = Counter()
 
 		for n, day in enumerate(days):
-			print("Processing day %s of %s" % (n, nr_days))
+			print("Processing day %s of %s:\t%s" % (n, nr_days, day))
 
 			timestamps_output = {
 				"links": {},

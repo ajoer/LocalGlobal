@@ -1,26 +1,20 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """ 
-
-	Assign location to all (location) links and references in a revision of a Wikipedia page.
-
-	NB: this really should only take NERs and not all entities... (slange is assigned to Sweden and skat to Russia)
+	Aggregate data from revisions to represent each a week. 
+	All revisions are read, grouped in days, and they grouped in one day for each week. 
+	Output: dictionary with dates as keys, links and references as values
 """
 
 import argparse
 import glob
 import json
-import matplotlib.pyplot as plt
 import os
-import re
-import string
 import utils
 
-from collections import defaultdict, OrderedDict
+from collections import OrderedDict
 from datetime import datetime
 from datetime import timedelta
-from geopy.geocoders import Nominatim
-from geoprovenance.py import gputils, gpinfer
 
 parser = argparse.ArgumentParser(description='''''')
 parser.add_argument("--language", help="e.g. 'nl' (for debugging).")

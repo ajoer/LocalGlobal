@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """ 
-
+	Produce a dictionary of languages per country. 
+	Output: dictionary where keys are language codes and values are list of countries where the language is spoken
+	Input is a list of countries and the languages spoken there.
 """
 import json
 
